@@ -1,0 +1,29 @@
+.footer-sort{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.footer-logo{
+    margin-left: 120px;
+    img{
+        border: solid white 2px;
+    height: 80px;
+    border-radius: 100%;
+    }
+}
+
+.footer-links{
+    margin-right: 120px;
+    a{
+        padding: 4px 8px 4px 8px;
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.5);
+        &:hover{
+            color: black;
+        }
+    }
+}
