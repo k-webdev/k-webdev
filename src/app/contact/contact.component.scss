@@ -1,0 +1,16 @@
+.contact-form-container-sort{
+    width: 100%;
+    height: calc(100vh - 156px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.015);
+}
+
+.contact-sort-datas{
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.15);
+    padding: 16px 0 16px 0;
+}

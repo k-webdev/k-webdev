@@ -1,0 +1,37 @@
+//erster Container sortierung
+.current-container-sort{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+//zweiter Container content
+.current-container-content{
+    width: 70%;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.img-style{
+    object-fit: contain !important;
+    height: 300px !important;
+}
+
+.text-current-slide-left{
+    position: absolute !important;
+    top: 45%;
+    left: 100px;
+}
+
+.text-current-slide-right{
+    position: absolute !important;
+    top: 45%;
+    right: 100px;
+}
+
+.bottom-border{
+    width: fit-content;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}

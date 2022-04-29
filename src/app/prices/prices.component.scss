@@ -1,0 +1,16 @@
+//erster Container sortierung
+.prices-container-sort{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+//zweiter Container content
+.prices-container-content{
+    width: 70%;
+    height: 100vh;
+    background-color: white;
+}

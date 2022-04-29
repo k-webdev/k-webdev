@@ -1,0 +1,11 @@
+.arrow-up-container{
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 100%;
+    &:hover{
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+}

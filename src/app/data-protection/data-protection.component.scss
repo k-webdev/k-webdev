@@ -1,0 +1,15 @@
+//erster Container sortierung
+.data-protection-container-sort{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+
+//zweiter Container content
+.data-protection-container-content{
+    width: 70%;
+    background-color: white;
+    padding: 16px;
+}

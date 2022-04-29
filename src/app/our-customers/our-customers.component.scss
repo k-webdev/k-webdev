@@ -1,0 +1,23 @@
+//erster Container sortierung
+.our-cutomers-container-sort{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+//zweiter Container content
+.our-cutomers-container-content{
+    width: 70%;
+    height: 100vh;
+    background-color: white;
+}
+
+.card{
+    margin: 16px;
+}
+
+.card-img-top{
+    object-fit: contain;
+}
